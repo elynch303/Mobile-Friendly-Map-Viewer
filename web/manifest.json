@@ -1,6 +1,6 @@
 {
-    "name": "form_map",
-    "short_name": "form_map",
+    "name": "foam_map",
+    "short_name": "foam_map",
     "start_url": ".",
     "display": "minimal-ui",
     "background_color": "#0175C2",

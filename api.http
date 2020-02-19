@@ -1,0 +1,24 @@
+  
+GET https://map-api-direct.foam.space:443/stats/global HTTP/1.1
+content-type: application/json
+
+{
+  "account_name": "magicturtle3"
+}
+
+
+GET https://map-api-direct.foam.space/poi/filtered HTTP/1.1
+content-type: application/json
+
+{
+  "limit": 101,
+  "neLat": 43.66738934147246,
+  "neLng": -79.34959043550076,
+  "offset": 0,
+  "sort": "most_value",
+  "status": "application",
+  "status": "challenged",
+  "status": "listing",
+  "swLat": 43.63052100088476,
+  "swLng": -79.41950076449912
+}
